@@ -39,6 +39,12 @@ To view or modify the template locally:
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/YassienTawfikk/kaspar.git
    ```
-2. Open `index.html` in your browser.
+2. Navigate to the project folder:
+   ```bash
+   cd kaspar
+   ```
+3. Open `index.html` in your browser.
+
+---
