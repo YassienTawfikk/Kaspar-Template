@@ -1,7 +1,7 @@
 # Kaspar  
 **Front-end Web Template**
 
-🌐 **Live Demo**: [Kaspar Template](https://yassientawfikk.github.io/kaspar/)
+🌐 **Live Demo**: [Kaspar Template](https://yassientawfikk.github.io/Kaspar-Template/)
 
 This project is a **front-end web template** built for learning and practicing HTML, CSS, and JavaScript. The design and structure were inspired by the **Kaspar Template** as part of a web development exercise. Only certain sections of the original template are implemented to focus on hands-on practice.
 
